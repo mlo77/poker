@@ -1,0 +1,2 @@
+serviceClass: org.vb.pokr.client.CommService
+path: C3FF5A119B869502CCDF25294C50B7BC.gwt.rpc
