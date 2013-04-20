@@ -1,0 +1,73 @@
+add 4
+---------- new deal
+st
+4 ca
+-- flop
+4 ch
+-- turn
+4 ch
+-- river
+4 ch
+---------- new deal
+st
+4 ca
+-- flop
+4 ch
+-- turn
+4 ch
+-- river
+4 ch
+---------- new deal
+st
+4 ca
+-- flop
+4 ch
+-- turn
+4 ch
+-- river
+4 ch
+---------- new deal
+st
+4 ca
+-- flop
+4 ch
+-- turn
+4 ch
+-- river
+4 ch
+---------- new deal
+dbg_distrib 51,49 50,48,47,2,3
+st
+ra 5000
+3 ca
+-- flop
+4 ca
+-- turn
+4 ca
+-- river
+4 ca
+---------- new deal
+dbg_distrib 0,1:49,46 50,48,47,2,3
+st
+ra 2500
+fo
+2 ca
+--
+3 ca
+--
+3 ca
+--
+3 ca
+---------- new deal
+st
+4 all
+-- flop
+3 n
+-- turn
+n
+-- river
+n
+n
+n
+--
+fi
